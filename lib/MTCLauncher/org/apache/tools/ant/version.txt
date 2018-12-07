@@ -1,0 +1,2 @@
+VERSION=1.9.2
+DATE=July 8 2013
